@@ -1,0 +1,83 @@
+Removed Pin From Net: NetName=NetC4_1 Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=NetC4_1 Pin=D1-1
+Removed Pin From Net: NetName=GND Pin=L1-2
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=NetC4_1 Pin=R5-2
+Removed Pin From Net: NetName=CATHODE Pin=R9-1
+Removed Pin From Net: NetName=NetC4_1 Pin=RP1-1
+Removed Pin From Net: NetName=NetR1_1 Pin=U1-1
+Removed Pin From Net: NetName=NetC4_1 Pin=U1-4
+Removed Pin From Net: NetName=VCC_BAT Pin=U1-6
+Removed Pin From Net: NetName=NetR1_1 Pin=U1-7
+Removed Pin From Net: NetName=NetR1_1 Pin=U1-8
+Removed Member From Class: ClassName=FEU31_Part2 Member=C9
+Removed Member From Class: ClassName=FEU31_Part2 Member=R8
+Removed Member From Class: ClassName=FEU31_Part2 Member=R9
+Removed Member From Class: ClassName=FEU31_Part2 Member=RP1
+Change Component Footprint: Designator=C3 Old Footprint=1608[0603]_CAP New Footprint=C1206
+Change Component Footprint: Designator=C4 Old Footprint=1608[0603]_CAP New Footprint=C1206
+Change Component Footprint: Designator=C7 Old Footprint=C1206 New Footprint=1608[0603]
+Change Component Footprint: Designator=L1 Old Footprint=SLF10145 New Footprint=IFSC1515AHER100M01
+Change Component Footprint: Designator=D1 Old Footprint=SMA doide New Footprint=SOD123
+Change Component Footprint: Designator=U1 Old Footprint=SO8_N New Footprint=MF05A_N
+Change Component Comment : Designator=R2 Old Comment=1K New Comment=Res2
+Change Component Comment : Designator=R1 Old Comment=1R New Comment=Res2
+Change Component Comment : Designator=C6 Old Comment=2.2pF New Comment=0pF
+Change Component Comment : Designator=C4 Old Comment=3.3nF New Comment=10uF
+Change Component Comment : Designator=C7 Old Comment=10uF New Comment=120pF
+Change Component Comment : Designator=R7 Old Comment=62k New Comment=10M
+Change Component Comment : Designator=C3 Old Comment=100nF New Comment=10uF
+Change Component Comment : Designator=D1 Old Comment=Diode New Comment=MBR0540
+Change Component Comment : Designator=U1 Old Comment=MC34063ACD-TR New Comment=LM2733XMF/NOPB
+Change Component Designator: OldDesignator=C2 NewDesignator=C8
+Change Component Designator: OldDesignator=C6 NewDesignator=C5
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=P2 NewDesignator=P1
+Change Component Designator: OldDesignator=R7 NewDesignator=R5
+Added Component: Designator=C2(1608[0603])
+Added Component: Designator=C6(C1206)
+Added Component: Designator=R3(1608[0603]_RES)
+Added Component: Designator=R4(1608[0603]_RES)
+Added Component: Designator=R7(1608[0603]_RES)
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=CATHODE Pin=C7-1
+Added Pin To Net: NetName=VCC_BAT Pin=L1-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=NetC4_1 Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=NetC4_1 Pin=R6-2
+Added Pin To Net: NetName=CATHODE Pin=R7-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=NetR1_1 Pin=U1-4
+Added Pin To Net: NetName=VCC_BAT Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U2-4
+Change Net Name : Old Net Name=GND New Net Name=ANODE
+Added Pin To Net: NetName=+23V Pin=C2-2
+Added Pin To Net: NetName=+23V Pin=C3-1
+Added Pin To Net: NetName=+23V Pin=D1-2
+Added Pin To Net: NetName=+23V Pin=R2-1
+Added Pin To Net: NetName=+23V Pin=R4-2
+Added Net: Name=+23V
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R2-2
+Added Pin To Net: NetName=NetC2_1 Pin=R3-1
+Added Pin To Net: NetName=NetC2_1 Pin=U1-3
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=R6-1
+Added Pin To Net: NetName=NetC6_1 Pin=R7-2
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=L1-2
+Added Pin To Net: NetName=NetD1_1 Pin=U1-1
+Added Net: Name=NetD1_1
+Added Member To Class: ClassName=FEU31_Part2 Member=Component R3 Res2
+Added Member To Class: ClassName=FEU31_Part2 Member=Component R4 Res2

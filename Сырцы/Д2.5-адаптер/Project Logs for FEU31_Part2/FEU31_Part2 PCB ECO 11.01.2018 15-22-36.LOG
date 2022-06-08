@@ -1,0 +1,12 @@
+Added Component: Designator=P1(HDR2X3)
+Added Component: Designator=P2(HDR1X2)
+Added Pin To Net: NetName=PULSE Pin=P1-1
+Added Pin To Net: NetName=VSENS Pin=P1-2
+Added Pin To Net: NetName=SIGOUT Pin=P1-3
+Added Pin To Net: NetName=VCC Pin=P1-4
+Added Pin To Net: NetName=ANODE Pin=P1-5
+Added Pin To Net: NetName=VCC_BAT Pin=P1-6
+Added Pin To Net: NetName=CATHODE Pin=P2-1
+Added Pin To Net: NetName=ANODE Pin=P2-2
+Added Member To Class: ClassName=FEU31_Part2 Member=Component P1 Header 3X2
+Added Member To Class: ClassName=FEU31_Part2 Member=Component P2 Header 2

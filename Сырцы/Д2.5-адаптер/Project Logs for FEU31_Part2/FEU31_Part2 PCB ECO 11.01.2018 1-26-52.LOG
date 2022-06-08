@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCC_BAT Pin=R3-1
+Removed Pin From Net: NetName=NetR1_1 Pin=R3-2
+Removed Member From Class: ClassName=FEU31_Part2 Member=R3
+Change Component Comment : Designator=R1 Old Comment=10R New Comment=1R
+Change Component Comment : Designator=C4 Old Comment=470pF New Comment=3.3nF

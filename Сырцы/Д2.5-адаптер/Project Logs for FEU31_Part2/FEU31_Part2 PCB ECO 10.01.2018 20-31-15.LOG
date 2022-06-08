@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC4_1 Pin=R4-1
+Removed Pin From Net: NetName=NetR2_2 Pin=R4-2
+Removed Member From Class: ClassName=FEU31_Part2 Member=R4
+Added Component: Designator=RP1(R-Tr 64W)
+Added Pin To Net: NetName=NetC4_1 Pin=RP1-1
+Added Pin To Net: NetName=NetR2_2 Pin=RP1-3
+Added Pin To Net: NetName=NetRP1_2 Pin=RP1-2
+Added Pin To Net: NetName=NetRP1_2 Pin=U1-5
+Added Net: Name=NetRP1_2
+Added Member To Class: ClassName=FEU31_Part2 Member=Component RP1 10k

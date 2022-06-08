@@ -1,0 +1,113 @@
+Removed Pin From Net: NetName=VSENS Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=D1-1
+Removed Pin From Net: NetName=VCC Pin=LX1-1
+Removed Pin From Net: NetName=NetC4_1 Pin=LX1-2
+Removed Pin From Net: NetName=VCC Pin=LX2-1
+Removed Pin From Net: NetName=ANODE Pin=P1-5
+Removed Pin From Net: NetName=GND Pin=Power1-1
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Removed Pin From Net: NetName=PULSE Pin=R1-1
+Removed Pin From Net: NetName=VCC_BAT Pin=R3-2
+Removed Pin From Net: NetName=VSENS Pin=R5-2
+Removed Pin From Net: NetName=NetC6_1 Pin=R6-1
+Removed Pin From Net: NetName=ANODE Pin=R6-2
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=VSENS Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=NetC4_1 Pin=U1-5
+Removed Member From Class: ClassName=FEU31_Part2 Member=LX1
+Removed Member From Class: ClassName=FEU31_Part2 Member=LX2
+Removed Member From Class: ClassName=FEU31_Part2 Member=Power1
+Removed Member From Class: ClassName=FEU31_Part2 Member=Q1
+Removed Member From Class: ClassName=FEU31_Part2 Member=T1
+Change Component Footprint: Designator=C3 Old Footprint=1608[0603] New Footprint=1608[0603]_CAP
+Change Component Footprint: Designator=C5 Old Footprint=1608[0603]_CAP New Footprint=C1206
+Change Component Footprint: Designator=R1 Old Footprint=1608[0603]_RES New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R2 Old Footprint=1608[0603]_RES New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R3 Old Footprint=1608[0603]_RES New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R5 Old Footprint=1608[0603]_RES New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R6 Old Footprint=1608[0603]_RES New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R8 Old Footprint=1608[0603]_RES New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R9 Old Footprint=1608[0603]_RES New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=U1 Old Footprint=ADI-RJ-5_N New Footprint=SO8_N
+Change Component Footprint: Designator=R4 Old Footprint=HVF2512T5007FE New Footprint=VR5
+Change Component Footprint: Designator=D1 Old Footprint=ONSC-SOD-923-2-514AB-01_V New Footprint=SMC
+Change Component Footprint: Designator=P1 Old Footprint=днг-31 New Footprint=HDR1X2
+Change Component Comment : Designator=C4 Old Comment=1uF New Comment=100nF
+Change Component Comment : Designator=R5 Old Comment=5.1M New Comment=Res2
+Change Component Comment : Designator=R4 Old Comment=5G New Comment=RPot
+Change Component Comment : Designator=R8 Old Comment=6R New Comment=Res2
+Change Component Comment : Designator=C3 Old Comment=10pF New Comment=100nF
+Change Component Comment : Designator=R3 Old Comment=12R New Comment=Res2
+Change Component Comment : Designator=R2 Old Comment=47k New Comment=Res2
+Change Component Comment : Designator=C5 Old Comment=100nF New Comment=4.7uF
+Change Component Comment : Designator=R1 Old Comment=100R New Comment=Res2
+Change Component Comment : Designator=R6 Old Comment=390K New Comment=Res2
+Change Component Comment : Designator=U1 Old Comment=AD8541ARTZ New Comment=MC34063ACD-TR
+Change Component Comment : Designator=D1 Old Comment=ESD9R3.3ST5G New Comment=Diode
+Change Component Comment : Designator=P1 Old Comment=Header 5X2 New Comment=Header 2
+Change Component Comment : Designator=R9 Old Comment=none New Comment=Res2
+Added Component: Designator=C7(C1206)
+Added Component: Designator=C8(C1206)
+Added Component: Designator=C9(C1206)
+Added Component: Designator=L1(0402-A)
+Added Pin To Net: NetName=VCC_BAT Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=NetC6_1 Pin=C3-1
+Added Pin To Net: NetName=ANODE Pin=C3-2
+Added Pin To Net: NetName=NetC4_1 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=NetC4_1 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=L1-2
+Added Pin To Net: NetName=ANODE Pin=P1-2
+Added Pin To Net: NetName=VCC_BAT Pin=R1-2
+Added Pin To Net: NetName=VCC_BAT Pin=R3-1
+Added Pin To Net: NetName=NetC4_1 Pin=R4-1
+Added Pin To Net: NetName=NetC4_1 Pin=R5-2
+Added Pin To Net: NetName=NetC4_1 Pin=U1-4
+Added Pin To Net: NetName=VCC_BAT Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=VCC Pin=U2-5
+Change Net Name : Old Net Name=NetC6_1 New Net Name=NetC3_1
+Added Pin To Net: NetName=CATHODE Pin=P1-1
+Added Pin To Net: NetName=CATHODE Pin=R9-1
+Added Net: Name=CATHODE
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=U1-3
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=R5-1
+Added Pin To Net: NetName=NetC7_1 Pin=R6-2
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=R6-1
+Added Pin To Net: NetName=NetC8_1 Pin=R8-2
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=R8-1
+Added Pin To Net: NetName=NetC9_1 Pin=R9-2
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=L1-1
+Added Pin To Net: NetName=NetD1_2 Pin=U1-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R3-2
+Added Pin To Net: NetName=NetR1_1 Pin=U1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-7
+Added Pin To Net: NetName=NetR1_1 Pin=U1-8
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R4-2
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR4_3 Pin=R4-3
+Added Pin To Net: NetName=NetR4_3 Pin=U1-5
+Added Net: Name=NetR4_3
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C7 4.7uF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C8 4.7uF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component C9 4.7uF
+Added Member To Class: ClassName=FEU31_Part2 Member=Component L1 Inductor

@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=R2 Old Footprint=AXIAL-0.4 New Footprint=1608[0603]_RES
+Change Component Footprint: Designator=R3 Old Footprint=AXIAL-0.4 New Footprint=1608[0603]_RES
+Change Component Footprint: Designator=R5 Old Footprint=AXIAL-0.4 New Footprint=1608[0603]_RES
+Change Component Footprint: Designator=R6 Old Footprint=AXIAL-0.4 New Footprint=1608[0603]_RES
+Change Component Footprint: Designator=R8 Old Footprint=AXIAL-0.4 New Footprint=1608[0603]_RES
+Change Component Footprint: Designator=R9 Old Footprint=AXIAL-0.4 New Footprint=1608[0603]_RES
+Change Component Comment : Designator=C1 Old Comment=4.7uF New Comment=10uF
+Change Component Comment : Designator=C5 Old Comment=4.7uF New Comment=10uF
+Change Component Comment : Designator=C7 Old Comment=4.7uF New Comment=10uF
+Change Component Comment : Designator=C8 Old Comment=4.7uF New Comment=10uF
+Change Component Comment : Designator=C9 Old Comment=4.7uF New Comment=10uF
+Added Component: Designator=R1(1608[0603]_RES)
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=VCC_BAT Pin=R1-2
+Added Member To Class: ClassName=FEU31_Part2 Member=Component D1 Diode
+Added Member To Class: ClassName=FEU31_Part2 Member=Component R1 Res2

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=ANODE Pin=C5-1
+Removed Pin From Net: NetName=ANODE Pin=R5-1
+Removed Pin From Net: NetName=ANODE Pin=U2-4
+Change Net Name : Old Net Name=ANODE New Net Name=GND
+Change Net Name : Old Net Name=CATHODE New Net Name=NetC7_1
+Added Pin To Net: NetName=ANODE Pin=C5-1
+Added Pin To Net: NetName=ANODE Pin=R5-1
+Added Pin To Net: NetName=ANODE Pin=U2-4
+Added Net: Name=ANODE
